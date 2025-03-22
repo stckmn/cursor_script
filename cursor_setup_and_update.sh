@@ -13,7 +13,7 @@ DOWNLOAD_URL="https://downloader.cursor.sh/linux/appImage/x64"
 ICON_DOWNLOAD_URL="https://www.cursor.com/assets/images/logo.svg"
 APPIMAGE_NAME="cursor.AppImage"
 APPIMAGE_PATH="${APP_DIR}/${APPIMAGE_NAME}"
-ICON_PATH="${ICON_DIR}/cursor-icon.png"
+ICON_PATH="${ICON_DIR}/cursor-icon.svg"
 DESKTOP_FILE_PATH="${DESKTOP_DIR}/cursor.desktop"
 LAUNCHER_SCRIPT="${BIN_DIR}/cursor"
 
